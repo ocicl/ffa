@@ -1,0 +1,10 @@
+* ffa
+
+ABANDONWARE Foreign friendly arrays
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tpapp/ffa.git   |
+| commit  | b7012f5  |
+| systems | ffa |
+|---------+-------------------------------------------|
+
